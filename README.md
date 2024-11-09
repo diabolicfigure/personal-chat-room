@@ -1,7 +1,5 @@
 # chat-room
 Simple CLI ChatRoom write in python
-* Original source:
-https://github.com/abraarahmed/multi-client-chatroom
 
 ## Usage
 1. Install dependencies
